@@ -23,9 +23,7 @@ public class ArmstrongNumber {
             n = n / 10;
         }
  
-        /* condition to check whether
-           the value of P equals
-           to user input or not. */
+ 
         if (temp == c) {
             System.out.println("Yes. It is Armstrong No.");
         }
